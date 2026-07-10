@@ -1,7 +1,7 @@
 ### Hi there 👋,  
-I'm Joel, a second year Computer Systems student at the University of Auckland
+I'm Joel, a third-year Electrical and Electronics Engineering student at the University of Auckland
 
-Skills: MATLAB / Python / C / Java / Rust
+Skills: MATLAB / Python / C / Java / Rust / VHDL
 
 
 
